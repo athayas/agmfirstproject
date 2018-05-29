@@ -1,2 +1,1 @@
-# agmfirstproject
-My First Git Project
+# Project
